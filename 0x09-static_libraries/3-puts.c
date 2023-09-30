@@ -4,12 +4,6 @@
 #include <ctype.h>
 #include <string.h>
 
-/**
- * _puts - Entry point
- * @s: input
- * Return: Always 0 (Success)
- */
-
 void _puts(char *s)
 {
 	puts(s);
